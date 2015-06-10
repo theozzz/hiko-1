@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=pIV-8ZyIth8
 
 http://nodesocketapplication-hiko.rhcloud.com:8000
 
-## Get your own server local
+## Get your own local server
 
 https://github.com/theozzz/hikoServer
 
